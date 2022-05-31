@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "brainworks-task2",
+  "private_key_id": "55566a9ced8def04fab1cbc1d03a81126e96531b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCY/lf7M6cmMv3n\nl+qgkxsbv4ccXcgPS09e2ae4m7pjE0kMQu48GApTk8g141EzxkGWCKuBdzVbIlFp\nLj4IpP/DjnFHC7oXxIKJPzQHXvJCtbttuvYMkNXHfjEc2SArYJ3fmDZN+cipGdtU\nDNd9wWAGO0Cx2EVPRZOe4j9A8cth4eYYbKxQWqmyYmDmioSsnykZjS6a51D5Zr1H\nsprm7RJQM2PYWGF3RanStzTiYHwvpdKMnS03o1j2KM9BmKYniOZf8b8doC8KNfyI\npwJnucQbwZxnhndFBvGSAug+Oricae0bttzgk4DsQqqUqGDaQkLOVis6OUumy/ye\nAhtVrOhbAgMBAAECggEAPf/wqpmLlrTaZUSQriL/PNb4i3vLy7rivtbom6zsMyNJ\nGoFzJwI9CRKd84ybxyYERSddTVmAU17MbBnzxLAM//RVHov3jZMyrSjiTkxhU7xu\n6LB37q6xG6edgonQ+hMs10RJWX8snK6gTeboWwuG/O99L7UrnUzeXmhkZs6184Om\nEHw0aqMNcgeUeSiSvCi0imQtE4qWFPfD7zTQKbAZhxAGPGrJE+Za/siHV2mom/XL\nODuebJaZni48I/fBAaSl2uLCHE/9AvWOjj53PsQ3rT/8E5ot33eTaZVhqZHfCz8T\noaW6V4uaihrp5IVPrVMQN7UtvefPYGI0l2kaWu0UWQKBgQDP9qYhNOMGUYPIC0SL\nawpQZarTZS5lhVNojAaZMeA2xe5bYisp5QcZI46ltdlf3d1HyullQR7hFTEy/XpF\ndY+jDWBlIn0MyjeRQxA4ZIDBtk3qnTrh+z5YN9+x3em8y3nNAzJCkzPnWGJ/2/kL\nMlPAUwzCyR9XArKVukjs+sBA+QKBgQC8VTKTFJIj3eXk1GGEtmED4BFXpqNTtF6p\nVy6RzBq7IcRRvRYhqOlQLFdXaFGwxl+/svroEGEBCR7MxdyomVvXkRTAcGpKk13W\nGVwcd9ARrLFlYpN6A1KAgD9p/nvmkM2W9A377eEhGfJCbe6FlIzJwVq3KJ/frJI6\nbtLFM7Qc8wKBgGLcmx9AGAih6abIjH5GlXGg0zOJbyP93KffoSdkiXUgZO52XZSd\n9uDhgWePalXjj9UYRhnHelmADJJz45NvjqfxrPiHC7Fv1DivC9/zDy6HbsTwl9Rj\n7sBbV3Ej0IDarf1i3pq9hbgd0T19IghLlXrhQDi9CbQAaUs6cn6NuaVpAoGBAIAI\nw6suDvQHROU+ZVWdz3Kc/+1AwkSDmN8y/9vqkDmsCRUwoT0c4hC5NF+d8ftlwW5H\ntT/S8r+Lfb7kvNB6AfAZF6yEQB6W9PI6p15LLc72QluUmoIWhB4MEhBzC7SBuOLo\n5CDjZWvlgccbiU6S4OvAYXWnTpj3byn+cZfTQJ11AoGATxpNNj+JD82rOGXdiraf\nJSNOCBueHB9hTbKOVs/PSqFI2FMrm8h+HlqO/N/zGyZ2QyWWj+Isr+Dp8cb9dqDO\nkM5N1H2JwaA+GagZrmFVQRpmmYn42KikXJN8tw9BxpYMCgo0YnzetN5zbuFR7lPO\n8Ao1EhoifE59z4hb9i46New=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sid-382@brainworks-task2.iam.gserviceaccount.com",
+  "client_id": "101421713675268792795",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sid-382%40brainworks-task2.iam.gserviceaccount.com"
+}
